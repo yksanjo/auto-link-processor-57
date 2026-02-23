@@ -1,5 +1,12 @@
 # auto-link-processor-57
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/auto-link-processor-57/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/auto-link-processor-57/actions)
+![License](https://img.shields.io/github/license/yksanjo/auto-link-processor-57)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/auto-link-processor-57)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/auto-link-processor-57)
+
 ## Detailed Description
 
 auto-link-processor-57 is maintained as an industry-grade software project with production-ready engineering practices.  
